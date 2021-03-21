@@ -1,0 +1,28 @@
+body{
+    margin: 0px;
+}
+.navbar{
+    width: 100%;
+    height: 55px;
+    background-color: dodgerblue;
+    display: flex;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+nav{
+    margin-left: auto;
+}
+nav ul li{
+    display: inline-block;
+    margin-right: 35px;
+}
+.logo{
+    height: 40px;
+    margin: 8px 0px 0px 35px;
+}
+.profile{
+    height: 36px;
+    margin: 8px 35px 0px 0px;
+}
